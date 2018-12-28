@@ -7,5 +7,5 @@ files:- index.html custom.css
 
 Github-Link:- https://github.com/YKRoshan/
 
-assignment-link: https://ykroshan.github.io/Assignment-2/index.html
+assignment-link: https://ykroshan.github.io/Assignment-1/index.html
 
